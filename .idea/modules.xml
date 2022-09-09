@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-firestore-platzi-crypto-trade-1.configuracion-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/android-firestore-platzi-crypto-trade-1.configuracion-firebase.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-firestore-platzi-crypto-trade-1.configuracion-firebase.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-firestore-platzi-crypto-trade-1.configuracion-firebase.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Crypto-Trade-App-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Crypto-Trade-App-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Crypto-Trade-App-Android.app.unitTest.iml" />
     </modules>
   </component>
 </project>
