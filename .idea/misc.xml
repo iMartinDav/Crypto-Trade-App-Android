@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1995" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_trader.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/coin_info.xml" value="0.1" />
         <entry key="app/src/main/res/layout/crypto_row.xml" value="0.1" />
       </map>
     </option>

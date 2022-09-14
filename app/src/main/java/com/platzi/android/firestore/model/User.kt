@@ -1,7 +1,7 @@
 package com.platzi.android.firestore.model
 
 /**
- * @author Martin Davila
+ * @author Santiago Carrillo
  * 3/7/19.
  */
 class User {

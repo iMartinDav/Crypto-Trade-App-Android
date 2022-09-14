@@ -3,7 +3,7 @@ package com.platzi.android.firestore.network
 import java.lang.Exception
 
 /**
- * @author Martin Davila
+ * @author Santiago Carrillo
  * 3/9/19.
  */
 

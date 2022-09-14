@@ -23,7 +23,7 @@ import java.lang.Exception
 
 
 /**
- * @author Martin Davila
+ * @author Santiago Carrillo
  * 2/14/19.
  */
 class TraderActivity : AppCompatActivity(), CryptosAdapterListener {

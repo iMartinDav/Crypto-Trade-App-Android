@@ -3,7 +3,7 @@ package com.platzi.android.firestore.adapter
 import com.platzi.android.firestore.model.Crypto
 
 /**
- * @author Martin Davila
+ * @author Santiago Carrillo
  * 3/9/19.
  */
 

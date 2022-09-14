@@ -6,7 +6,7 @@ import com.platzi.android.firestore.model.User
 
 
 /**
- * @author Martin Davila
+ * @author Santiago Carrillo
  * 3/7/19.
  */
 

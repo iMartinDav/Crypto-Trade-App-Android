@@ -11,7 +11,7 @@ import com.platzi.android.firestore.model.Crypto
 import com.squareup.picasso.Picasso
 
 /**
- * @author Martin Davila
+ * @author Santiago Carrillo
  * 3/9/19.
  */
 

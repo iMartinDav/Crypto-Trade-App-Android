@@ -19,8 +19,8 @@ import kotlinx.android.synthetic.main.activity_trader.*
 import java.lang.Exception
 
 /**
- * @author Martin Davila
- * github iMartinDav
+ * @author Santiago Carrillo
+ * github sancarbar
  * 1/29/19.
  */
 
